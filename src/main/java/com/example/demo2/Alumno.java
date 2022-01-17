@@ -5,4 +5,6 @@ public class Alumno {
 	private String nombre;
 	private String apellidos;
 	private String alias;
+	
+	private String telefono;
 }
