@@ -9,4 +9,5 @@ public class Alumno {
 	private String alias;
 	
 	private String telefono;
+	private String altura;
 }
